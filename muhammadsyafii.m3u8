@@ -1,6 +1,8 @@
+
+MUHAMMAD SYAFII LAMRO 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://raw.githubusercontent.com/matthuisman/new.mjh.nz/master/au/melbourne/epg.xml" refresh="3600"
 
-<---National TV--->
+<---syafiinasional--->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -132,7 +134,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-<---News--->
+<---syafiinews--->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -903,13 +905,13 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",Bein Sports 7 ????
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 group-title="xEXTRASPORTx",beIN SPORTS EXTRA — ????
+#EXTINF:-1 group-title="xEXTRASPORTx",beIN SPORTS EXTRA √ë ????
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",BEIN SPORT EXTRA ????
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",BEIN SPORT EXTRA ????
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:-1 group-title="xEXTRASPORTx",BEIN SPORT EXTRA — ????
+#EXTINF:-1 group-title="xEXTRASPORTx",BEIN SPORT EXTRA √ë ????
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",beIN Sports 1 French ????
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
@@ -1011,7 +1013,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",KBP SPORT ????
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="xEXTRASPORTx",CBC Azerbaiy·n ????
+#EXTINF:-1 group-title="xEXTRASPORTx",CBC Azerbaiy√°n ????
 http://185.236.229.31:9981/play/a056
 #EXTINF:-1 group-title="xEXTRASPORTx",CBC Sport ????
 http://193.228.193.179:8000/play/a01k
